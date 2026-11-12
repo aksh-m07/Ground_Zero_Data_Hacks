@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # GroundZero: Wildfire Risk Intelligence and Survivor Support in the Browser
 
 **GroundZero predicts local wildfire risk with an XGBoost model that runs entirely in the browser through ONNX Runtime Web, and pairs it with on-device computer vision tools that help survivors and responders during a fire.**
